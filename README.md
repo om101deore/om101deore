@@ -1,16 +1,22 @@
-### Hi there 👋
+### 😄 Om Deore
+- Graphics Programming
+- Linux Geek
+- OpenSource enthusiast
 
-<!--
-**om101deore/om101deore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### 🏗️ Projects
+1. [3D scene using OpenGL](https://github.com/om101deore/phong)
+2. [Maze Solver in java](https://github.com/om101deore/ADS-project)
+3. [2D game in unity engine](https://github.com/om101deore/2d-platformer)
+4. [Chess using SDL2](https://github.com/om101deore/chess)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 📑 [Resume](https://drive.google.com/file/d/1ddkmXNeARUCKIwvVv3WDX2g3ZkfBSReU/view?usp=sharing)
+
+
+### 💬 Contact here
+- [Email](mailto:omdeore890@gmail.com)
+- [linkedin](https://www.linkedin.com/in/om-deore-linux-nerd/)
+- [youtube](https://youtube.com/@omdeore8089)
+
+
