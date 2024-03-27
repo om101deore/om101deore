@@ -11,7 +11,7 @@
 4. [Chess using SDL2](https://github.com/om101deore/chess)
 
 
-### 📑 [Resume](https://drive.google.com/file/d/1ddkmXNeARUCKIwvVv3WDX2g3ZkfBSReU/view?usp=sharing)
+### 📑 [Resume](https://drive.google.com/file/d/1ooovpychWieqEiucBnTXnfV7ABAyx_xZ/view?usp=sharing)
 
 
 ### 💬 Contact here
